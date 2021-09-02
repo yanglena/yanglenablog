@@ -32,7 +32,7 @@ menu:
 
 params:
   description: "Duanduan & Jinjin"
-  footer: "&copy; [Qiyan Yang](https://yangqiyan.netlify.app) | 转载联系 yangqiyan_lena@qq.com"
+  footer: "&copy; [Qiyan Yang](https://yangqiyan.netlify.app) | yangqiyan_lena@qq.com"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"

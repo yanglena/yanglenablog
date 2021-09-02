@@ -72,7 +72,13 @@ $$\frac{2}{\frac{1}{a}+\frac{1}{b}}\stackrel{\require{enclose}\enclose{circle}{1
 
 注释6：由注释3和注释5可见，基本不等式$\sqrt{ab}\leqslant\frac{a+b}{2}\ (a,b\geqslant0)$实际是不等关系$a^2+b^2\geqslant 2ab\ (a,b\in\mathbb{R})$ 的增强。(W r not done yet!)
 
-<img src="mean-inequality_jpg.jpg" alt="" width="300"/>   
+```{r mean-inequality_1, echo=FALSE, fig.cap="", out.width = '80%'}
+knitr::include_graphics("mean-inequality_1.jpg")
+```
+
+```{r mean-inequality_2, echo=FALSE, fig.cap="", out.width = '80%'}
+knitr::include_graphics("mean-inequality_2.jpg")
+```
 
 ---
 
