@@ -3,7 +3,7 @@
     "path": "~/yanglenablog/content/yangjinjin/2020-05-31-遥远的救世主/index.md",
     "project_path": "content/yangjinjin/2020-05-31-遥远的救世主/index.md",
     "type": "markdown",
-    "hash": "415821295",
+    "hash": "3868820142",
     "contents": "",
     "dirty": false,
     "created": 1630747908986.0,
@@ -12,15 +12,19 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "343,102",
-        "scrollLine": "326"
+        "cursorPosition": "337,53",
+        "scrollLine": "326",
+        "rmdVisualMode": "false",
+        "rmdVisualModeLocation": "2:0",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1630755652,
+    "lastKnownWriteTime": 1630756847,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1630755652841,
+    "last_content_update": 1630756847415,
     "read_only": false,
     "read_only_alternatives": []
 }
