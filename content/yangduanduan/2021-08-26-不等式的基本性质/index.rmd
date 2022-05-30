@@ -1,6 +1,6 @@
 ---
 title: "不等式的基本性质"
-author: "杨启妍"
+author: "杨端端"
 date: '2021-08-26'
 categories: 高中数学
 tags: 高中数学

@@ -1,6 +1,6 @@
 ---
 title: '备学生——初中数学课程标准'
-author: "杨启妍"
+author: "杨端端"
 date: 2021-09-10
 categories: ["高中数学"]
 tags: ["高中数学"]

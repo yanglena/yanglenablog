@@ -1,0 +1,24 @@
+---
+title: 市直新教师培训——皇甫局长
+author: 杨端端
+date: '2022-05-28'
+slug: ''
+categories: []
+tags: []
+---
+
+```{r echo=FALSE, fig.cap="", out.width = '70%', fig.align='center'}
+par(mfrow = c(4, 3))
+knitr::include_graphics("01.jpg")
+knitr::include_graphics("02.jpg")
+knitr::include_graphics("03.jpg")
+knitr::include_graphics("04.jpg")
+knitr::include_graphics("05.jpg")
+knitr::include_graphics("06.jpg")
+knitr::include_graphics("07.jpg")
+knitr::include_graphics("08.jpg")
+knitr::include_graphics("09.jpg")
+knitr::include_graphics("10.jpg")
+knitr::include_graphics("11.jpg")
+knitr::include_graphics("12.jpg")
+```
