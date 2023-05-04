@@ -1,12 +1,12 @@
 {
-    "id": "FC96942C",
-    "path": "~/GitHub/yanglenablog/index.Rmd",
-    "project_path": "index.Rmd",
+    "id": "BB994B5B",
+    "path": "~/GitHub/yanglenablog/content/yangduanduan/2023-04-09-2022-2/index.Rmd",
+    "project_path": "content/yangduanduan/2023-04-09-2022-2/index.Rmd",
     "type": "r_markdown",
-    "hash": "1542943790",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1658209257062.0,
+    "created": 1683196775606.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
@@ -14,11 +14,11 @@
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1653467877,
+    "lastKnownWriteTime": 1683196775,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1653467877,
+    "last_content_update": 1683196775,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,17 +1,19 @@
 {
-    "id": "81B3BA69",
-    "path": "~/GitHub/yanglenablog/config.yaml",
-    "project_path": "config.yaml",
-    "type": "yaml",
-    "hash": "1294953997",
+    "id": "FC96942C",
+    "path": "~/GitHub/yanglenablog/index.Rmd",
+    "project_path": "index.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1658209241488.0,
+    "created": 1658209257062.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,3",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1653467877,
