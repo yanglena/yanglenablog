@@ -3,7 +3,7 @@
     "path": "~/GitHub/yanglenablog/content/yangduanduan/2024-03-15-广教研听课（数列的最值）/index.Rmd",
     "project_path": "content/yangduanduan/2024-03-15-广教研听课（数列的最值）/index.Rmd",
     "type": "r_markdown",
-    "hash": "1342821960",
+    "hash": "3172374223",
     "contents": "",
     "dirty": false,
     "created": 1710605130617.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,31",
-        "scrollLine": "3"
+        "cursorPosition": "50,118",
+        "scrollLine": "44"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710605842,
+    "lastKnownWriteTime": 1710655108,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710605842324,
+    "last_content_update": 1710655108903,
     "read_only": false,
     "read_only_alternatives": []
 }
