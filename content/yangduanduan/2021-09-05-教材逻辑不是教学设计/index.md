@@ -1,6 +1,6 @@
 ---
 title: '教材逻辑不是教学设计'
-author: "杨端端"
+author: "杨启妍"
 date: 2021-09-05
 categories: ["教学反思"]
 tags: ["章建跃数学教育随想录"]
