@@ -28,12 +28,9 @@ menu:
     - name: "漫谈随笔"
       url: "/verbesserung4_writing/"
       weight: 4
-    - name: "类别"
-      url: "/categories/"
-      weight: 5
-    - name: "标签"
+    - name: "标签Tags"
       url: "/tags/"
-      weight: 6
+      weight: 5
 
 params:
   description: "Lebenslanges Lernen"
